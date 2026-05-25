@@ -8,7 +8,7 @@
 
 ## 🎬 Trailer
 
-[![Watch the Trailer](https://github.com/user-attachments/assets/ca6cdbb4-b78c-41be-987f-82bd2d67420f)](https://youtu.be/45n4mGrMrg0)
+[![Watch the Trailer](https://github.com/user-attachments/assets/240e76d2-21b1-4c4b-8eb3-21c5a8965226)](https://youtu.be/45n4mGrMrg0)
 
 ---
 
