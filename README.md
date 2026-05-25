@@ -2,7 +2,7 @@
 
 ## *Manhattan University Capstone 2025* 
 
-### *Presented by Hrithik Sandhir, Eliza Hajdarovic, Adriana Causevic, Lorna Reilly*
+### *Presented by Hrithik Sandhir, Eliza Hajdarovic, Adriana Causevic, and Lorna Reilly*
 
 ---
 
