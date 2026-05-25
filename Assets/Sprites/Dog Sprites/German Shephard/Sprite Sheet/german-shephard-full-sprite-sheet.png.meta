@@ -1,0 +1,1573 @@
+fileFormatVersion: 2
+guid: a867aa58ae492f34aa8b1d1d1052ad45
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9207361487782825906
+    second: german-shephard-full-sprite-sheet_0
+  - first:
+      213: 1961363112262352667
+    second: german-shephard-full-sprite-sheet_1
+  - first:
+      213: -5045027428010794350
+    second: german-shephard-full-sprite-sheet_2
+  - first:
+      213: -6609561264930162245
+    second: german-shephard-full-sprite-sheet_3
+  - first:
+      213: -2918229058575243366
+    second: german-shephard-full-sprite-sheet_4
+  - first:
+      213: -16102500416499650
+    second: german-shephard-full-sprite-sheet_5
+  - first:
+      213: 6294205721285636324
+    second: german-shephard-full-sprite-sheet_6
+  - first:
+      213: -3546144977758304531
+    second: german-shephard-full-sprite-sheet_7
+  - first:
+      213: -8487223256013329177
+    second: german-shephard-full-sprite-sheet_8
+  - first:
+      213: -3715424233175007673
+    second: german-shephard-full-sprite-sheet_9
+  - first:
+      213: 302302586944444387
+    second: german-shephard-full-sprite-sheet_10
+  - first:
+      213: -4354984460053489645
+    second: german-shephard-full-sprite-sheet_11
+  - first:
+      213: -3513857694818657640
+    second: german-shephard-full-sprite-sheet_12
+  - first:
+      213: 2477392013438630562
+    second: german-shephard-full-sprite-sheet_13
+  - first:
+      213: 7538201108841048437
+    second: german-shephard-full-sprite-sheet_14
+  - first:
+      213: 8586128081010524794
+    second: german-shephard-full-sprite-sheet_15
+  - first:
+      213: 14089888309881021
+    second: german-shephard-full-sprite-sheet_16
+  - first:
+      213: -7877991504388944480
+    second: german-shephard-full-sprite-sheet_17
+  - first:
+      213: -3449468334367876525
+    second: german-shephard-full-sprite-sheet_18
+  - first:
+      213: -7485140692530193545
+    second: german-shephard-full-sprite-sheet_19
+  - first:
+      213: -4637088086051731091
+    second: german-shephard-full-sprite-sheet_20
+  - first:
+      213: 755486188157701697
+    second: german-shephard-full-sprite-sheet_21
+  - first:
+      213: -5928325383595523565
+    second: german-shephard-full-sprite-sheet_22
+  - first:
+      213: -6541452198484421369
+    second: german-shephard-full-sprite-sheet_23
+  - first:
+      213: -703973300603675923
+    second: german-shephard-full-sprite-sheet_24
+  - first:
+      213: -3064773894574751532
+    second: german-shephard-full-sprite-sheet_25
+  - first:
+      213: -2621180933953832836
+    second: german-shephard-full-sprite-sheet_26
+  - first:
+      213: -984216325245627623
+    second: german-shephard-full-sprite-sheet_27
+  - first:
+      213: 7925025421384581399
+    second: german-shephard-full-sprite-sheet_28
+  - first:
+      213: -2577636742186008076
+    second: german-shephard-full-sprite-sheet_29
+  - first:
+      213: -286159440983815713
+    second: german-shephard-full-sprite-sheet_30
+  - first:
+      213: -7281902155179942882
+    second: german-shephard-full-sprite-sheet_31
+  - first:
+      213: -6972441877263398254
+    second: german-shephard-full-sprite-sheet_32
+  - first:
+      213: -5121717537269780493
+    second: german-shephard-full-sprite-sheet_33
+  - first:
+      213: -8577003842855473747
+    second: german-shephard-full-sprite-sheet_34
+  - first:
+      213: -6672928775983757565
+    second: german-shephard-full-sprite-sheet_35
+  - first:
+      213: 5212232875986775824
+    second: german-shephard-full-sprite-sheet_36
+  - first:
+      213: -3003997069583524254
+    second: german-shephard-full-sprite-sheet_37
+  - first:
+      213: 5769714081513592317
+    second: german-shephard-full-sprite-sheet_38
+  - first:
+      213: -7926936145142585647
+    second: german-shephard-full-sprite-sheet_39
+  - first:
+      213: 9188401628712394930
+    second: german-shephard-full-sprite-sheet_40
+  - first:
+      213: 5473738540698086094
+    second: german-shephard-full-sprite-sheet_41
+  - first:
+      213: 3640526428030329887
+    second: german-shephard-full-sprite-sheet_42
+  - first:
+      213: 5098106031248675527
+    second: german-shephard-full-sprite-sheet_43
+  - first:
+      213: 3437005162547596302
+    second: german-shephard-full-sprite-sheet_44
+  - first:
+      213: -7166868375848932141
+    second: german-shephard-full-sprite-sheet_45
+  - first:
+      213: -3875261962103063224
+    second: german-shephard-full-sprite-sheet_46
+  - first:
+      213: 6330472054570594509
+    second: german-shephard-full-sprite-sheet_47
+  - first:
+      213: 4140398353690629738
+    second: german-shephard-full-sprite-sheet_48
+  - first:
+      213: -3541135797039652266
+    second: german-shephard-full-sprite-sheet_49
+  - first:
+      213: -3564664881646058170
+    second: german-shephard-full-sprite-sheet_50
+  - first:
+      213: -843049971978383331
+    second: german-shephard-full-sprite-sheet_51
+  - first:
+      213: 6795122509776204180
+    second: german-shephard-full-sprite-sheet_52
+  - first:
+      213: 266392163530873076
+    second: german-shephard-full-sprite-sheet_53
+  - first:
+      213: 8824279974309538637
+    second: german-shephard-full-sprite-sheet_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 526
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf48ed8d7e17cf70800000000000000
+      internalID: 9207361487782825906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 526
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fb3fddb59283b10800000000000000
+      internalID: 1961363112262352667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 526
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292605fa8467cf9b0800000000000000
+      internalID: -5045027428010794350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 526
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9f7aa6c0f1644a0800000000000000
+      internalID: -6609561264930162245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 526
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a976666f12e5087d0800000000000000
+      internalID: -2918229058575243366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 526
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30dda67cdac6cff0800000000000000
+      internalID: -16102500416499650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 462
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0367061c2895750800000000000000
+      internalID: 6294205721285636324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 462
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de64ea65eef89cec0800000000000000
+      internalID: -3546144977758304531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 462
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec24e77a63573a80800000000000000
+      internalID: -8487223256013329177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 462
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74eb9b75859207cc0800000000000000
+      internalID: -3715424233175007673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 462
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e75185e99ef13400800000000000000
+      internalID: 302302586944444387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 398
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3185a2015bcff83c0800000000000000
+      internalID: -4354984460053489645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 398
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a9f053b054c3fc0800000000000000
+      internalID: -3513857694818657640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 398
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa366219e6716220800000000000000
+      internalID: 2477392013438630562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 398
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5792de928f11d9860800000000000000
+      internalID: 7538201108841048437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 398
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7283a89ffd082770800000000000000
+      internalID: 8586128081010524794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 334
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8a2a3cdae023000800000000000000
+      internalID: 14089888309881021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 334
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad0a555770cba290800000000000000
+      internalID: -7877991504388944480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 334
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a5b0273d60120d0800000000000000
+      internalID: -3449468334367876525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 334
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b9ae7b2307f1890800000000000000
+      internalID: -7485140692530193545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 270
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69c0be34f0c5afb0800000000000000
+      internalID: -4637088086051731091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 270
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e8ad57fa60c7a00800000000000000
+      internalID: 755486188157701697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 270
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3128bd5297b5abda0800000000000000
+      internalID: -5928325383595523565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 270
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705532232e71835a0800000000000000
+      internalID: -6541452198484421369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 270
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea982e430cfa36f0800000000000000
+      internalID: -703973300603675923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 270
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d04bf8716cb775d0800000000000000
+      internalID: -3064773894574751532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 270
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78b7a304d1bf9bd0800000000000000
+      internalID: -2621180933953832836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 270
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913189f777c5752f0800000000000000
+      internalID: -984216325245627623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 206
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7118195d1a85bfd60800000000000000
+      internalID: 7925025421384581399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 206
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f102063a056a3cd0800000000000000
+      internalID: -2577636742186008076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 206
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9090b218b570cf0800000000000000
+      internalID: -286159440983815713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 206
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c195f229c71fa90800000000000000
+      internalID: -7281902155179942882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 206
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a48a0ed09ec3f90800000000000000
+      internalID: -6972441877263398254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 206
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff652f29010ce8b0800000000000000
+      internalID: -5121717537269780493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 206
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad6075a27c58f880800000000000000
+      internalID: -8577003842855473747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 142
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307810802aef463a0800000000000000
+      internalID: -6672928775983757565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 142
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fedc36f22955840800000000000000
+      internalID: 5212232875986775824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 142
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ed821c498af46d0800000000000000
+      internalID: -3003997069583524254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 142
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5df2c4364221050800000000000000
+      internalID: 5769714081513592317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_39
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 142
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6629f139dddf190800000000000000
+      internalID: -7926936145142585647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_40
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 78
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0e50d5992c38f70800000000000000
+      internalID: 9188401628712394930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_41
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 78
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecaacaf9330a6fb40800000000000000
+      internalID: 5473738540698086094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_42
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 78
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f146b2a7f7fb58230800000000000000
+      internalID: 3640526428030329887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_43
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 92
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c29adbac6c10c640800000000000000
+      internalID: 5098106031248675527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_44
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 78
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c45dc3cf1b2bf20800000000000000
+      internalID: 3437005162547596302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_45
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 78
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc2b811f2b2a8c90800000000000000
+      internalID: -7166868375848932141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_46
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 14
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d734907cd483ac0800000000000000
+      internalID: -3875261962103063224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_47
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 14
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0b7391bca5ad750800000000000000
+      internalID: 6330472054570594509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_48
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 14
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66975cad56a57930800000000000000
+      internalID: 4140398353690629738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_49
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 14
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652280c11cb5bdec0800000000000000
+      internalID: -3541135797039652266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_50
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 14
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6454d223d24c78ec0800000000000000
+      internalID: -3564664881646058170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_51
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 14
+        width: 43
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1053546482ec44f0800000000000000
+      internalID: -843049971978383331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_52
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 14
+        width: 43
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491b878abef1d4e50800000000000000
+      internalID: 6795122509776204180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_53
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 14
+        width: 43
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f89436e24a62b300800000000000000
+      internalID: 266392163530873076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: german-shephard-full-sprite-sheet_54
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 15
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b205332e3267a70800000000000000
+      internalID: 8824279974309538637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      german-shephard-full-sprite-sheet_0: 9207361487782825906
+      german-shephard-full-sprite-sheet_1: 1961363112262352667
+      german-shephard-full-sprite-sheet_10: 302302586944444387
+      german-shephard-full-sprite-sheet_11: -4354984460053489645
+      german-shephard-full-sprite-sheet_12: -3513857694818657640
+      german-shephard-full-sprite-sheet_13: 2477392013438630562
+      german-shephard-full-sprite-sheet_14: 7538201108841048437
+      german-shephard-full-sprite-sheet_15: 8586128081010524794
+      german-shephard-full-sprite-sheet_16: 14089888309881021
+      german-shephard-full-sprite-sheet_17: -7877991504388944480
+      german-shephard-full-sprite-sheet_18: -3449468334367876525
+      german-shephard-full-sprite-sheet_19: -7485140692530193545
+      german-shephard-full-sprite-sheet_2: -5045027428010794350
+      german-shephard-full-sprite-sheet_20: -4637088086051731091
+      german-shephard-full-sprite-sheet_21: 755486188157701697
+      german-shephard-full-sprite-sheet_22: -5928325383595523565
+      german-shephard-full-sprite-sheet_23: -6541452198484421369
+      german-shephard-full-sprite-sheet_24: -703973300603675923
+      german-shephard-full-sprite-sheet_25: -3064773894574751532
+      german-shephard-full-sprite-sheet_26: -2621180933953832836
+      german-shephard-full-sprite-sheet_27: -984216325245627623
+      german-shephard-full-sprite-sheet_28: 7925025421384581399
+      german-shephard-full-sprite-sheet_29: -2577636742186008076
+      german-shephard-full-sprite-sheet_3: -6609561264930162245
+      german-shephard-full-sprite-sheet_30: -286159440983815713
+      german-shephard-full-sprite-sheet_31: -7281902155179942882
+      german-shephard-full-sprite-sheet_32: -6972441877263398254
+      german-shephard-full-sprite-sheet_33: -5121717537269780493
+      german-shephard-full-sprite-sheet_34: -8577003842855473747
+      german-shephard-full-sprite-sheet_35: -6672928775983757565
+      german-shephard-full-sprite-sheet_36: 5212232875986775824
+      german-shephard-full-sprite-sheet_37: -3003997069583524254
+      german-shephard-full-sprite-sheet_38: 5769714081513592317
+      german-shephard-full-sprite-sheet_39: -7926936145142585647
+      german-shephard-full-sprite-sheet_4: -2918229058575243366
+      german-shephard-full-sprite-sheet_40: 9188401628712394930
+      german-shephard-full-sprite-sheet_41: 5473738540698086094
+      german-shephard-full-sprite-sheet_42: 3640526428030329887
+      german-shephard-full-sprite-sheet_43: 5098106031248675527
+      german-shephard-full-sprite-sheet_44: 3437005162547596302
+      german-shephard-full-sprite-sheet_45: -7166868375848932141
+      german-shephard-full-sprite-sheet_46: -3875261962103063224
+      german-shephard-full-sprite-sheet_47: 6330472054570594509
+      german-shephard-full-sprite-sheet_48: 4140398353690629738
+      german-shephard-full-sprite-sheet_49: -3541135797039652266
+      german-shephard-full-sprite-sheet_5: -16102500416499650
+      german-shephard-full-sprite-sheet_50: -3564664881646058170
+      german-shephard-full-sprite-sheet_51: -843049971978383331
+      german-shephard-full-sprite-sheet_52: 6795122509776204180
+      german-shephard-full-sprite-sheet_53: 266392163530873076
+      german-shephard-full-sprite-sheet_54: 8824279974309538637
+      german-shephard-full-sprite-sheet_6: 6294205721285636324
+      german-shephard-full-sprite-sheet_7: -3546144977758304531
+      german-shephard-full-sprite-sheet_8: -8487223256013329177
+      german-shephard-full-sprite-sheet_9: -3715424233175007673
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: 34ab05c37f83e4f5ab04d274d805ca18
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3631214953350966854
+    second: Pixelart Buttons_0
+  - first:
+      213: -6487945150512233127
+    second: Pixelart Buttons_1
+  - first:
+      213: 1589499051954660613
+    second: Pixelart Buttons_2
+  - first:
+      213: 5360433350553006917
+    second: Pixelart Buttons_3
+  - first:
+      213: 2907698663987326129
+    second: Pixelart Buttons_4
+  - first:
+      213: 944156740207852645
+    second: Pixelart Buttons_5
+  - first:
+      213: 7592655771049081623
+    second: Pixelart Buttons_6
+  - first:
+      213: 1132006720452459400
+    second: Pixelart Buttons_7
+  - first:
+      213: -6313431089572744389
+    second: Pixelart Buttons_8
+  - first:
+      213: -1722244017445352239
+    second: Pixelart Buttons_9
+  - first:
+      213: 2861317256219808748
+    second: Pixelart Buttons_10
+  - first:
+      213: -3125494846964220233
+    second: Pixelart Buttons_11
+  - first:
+      213: 2076217095554176236
+    second: Pixelart Buttons_12
+  - first:
+      213: 4203967416036204163
+    second: Pixelart Buttons_13
+  - first:
+      213: 3127888666788950391
+    second: Pixelart Buttons_14
+  - first:
+      213: -6565372286407346604
+    second: Pixelart Buttons_15
+  - first:
+      213: 3680538676559597730
+    second: Pixelart Buttons_16
+  - first:
+      213: -2372972836523927627
+    second: Pixelart Buttons_17
+  - first:
+      213: 7541780126178792304
+    second: Pixelart Buttons_18
+  - first:
+      213: -1490065619087350349
+    second: Pixelart Buttons_19
+  - first:
+      213: -5960215693996843454
+    second: Pixelart Buttons_20
+  - first:
+      213: 8583117213524191411
+    second: Pixelart Buttons_21
+  - first:
+      213: -9035868141927252560
+    second: Pixelart Buttons_22
+  - first:
+      213: 4946954714683498243
+    second: Pixelart Buttons_23
+  - first:
+      213: 7952127520380121405
+    second: Pixelart Buttons_24
+  - first:
+      213: -7525205769924461294
+    second: Pixelart Buttons_25
+  - first:
+      213: -5476752596106857914
+    second: Pixelart Buttons_26
+  - first:
+      213: 3062752286799310569
+    second: Pixelart Buttons_27
+  - first:
+      213: -5860470241027156832
+    second: Pixelart Buttons_28
+  - first:
+      213: -9154250110482279148
+    second: Pixelart Buttons_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pixelart Buttons_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1364
+        width: 132
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e2295d2caa46230800000000000000
+      internalID: 3631214953350966854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart Buttons_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1364
+        width: 132
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955008d924036f5a0800000000000000
+      internalID: -6487945150512233127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart Buttons_2
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1364
+        width: 132
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505e39a57f80f0610800000000000000
+      internalID: 1589499051954660613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart Buttons_3
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1364
+        width: 132
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5437ed54bb5146a40800000000000000
+      internalID: 5360433350553006917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart Buttons_4
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1364
+        width: 132
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bca7dc77883a5820800000000000000
+      internalID: 2907698663987326129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart Buttons_5
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1234
+        width: 232
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c31688d815a1d00800000000000000
+      internalID: 944156740207852645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart Buttons_6
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1234
+        width: 232
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b333732388e5960800000000000000
+      internalID: 7592655771049081623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart Buttons_7
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1114
+        width: 232
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b7ce75d12b5bf00800000000000000
+      internalID: 1132006720452459400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart Buttons_8
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1114
+        width: 232
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33fb10cfdf2268a0800000000000000
+      internalID: -6313431089572744389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart Buttons_9
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 994
+        width: 232
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcc0a3e03c5918e0800000000000000
+      internalID: -1722244017445352239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart Buttons_10
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 994
+        width: 232
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce35da672e075b720800000000000000
+      internalID: 2861317256219808748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart Buttons_11
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 874
+        width: 232
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be326b0ff200a4d0800000000000000
+      internalID: -3125494846964220233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart Buttons_12
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 874
+        width: 232
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce49919b27430dc10800000000000000
+      internalID: 2076217095554176236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart Buttons_13
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 759
+        width: 232
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e9720671e775a30800000000000000
+      internalID: 4203967416036204163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart Buttons_14
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 759
+        width: 132
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771fce09b2e786b20800000000000000
+      internalID: 3127888666788950391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart Buttons_15
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 614
+        width: 132
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456fe7ab0bc13e4a0800000000000000
+      internalID: -6565372286407346604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart Buttons_16
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 614
+        width: 132
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0db6e0d66e31330800000000000000
+      internalID: 3680538676559597730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart Buttons_17
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 614
+        width: 132
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7175917c1811fd0800000000000000
+      internalID: -2372972836523927627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart Buttons_18
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 614
+        width: 132
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073dcf21119c9a860800000000000000
+      internalID: 7541780126178792304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart Buttons_19
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 614
+        width: 132
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5a642d639325be0800000000000000
+      internalID: -1490065619087350349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart Buttons_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 484
+        width: 232
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e1c96a76f094da0800000000000000
+      internalID: -5960215693996843454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart Buttons_21
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 484
+        width: 232
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b866a161ab5d1770800000000000000
+      internalID: 8583117213524191411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart Buttons_22
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 364
+        width: 232
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd382b8cc52a9280800000000000000
+      internalID: -9035868141927252560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart Buttons_23
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 364
+        width: 232
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f57a85a1d17a440800000000000000
+      internalID: 4946954714683498243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart Buttons_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 244
+        width: 232
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d317ddcf8d1ab5e60800000000000000
+      internalID: 7952127520380121405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart Buttons_25
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 244
+        width: 232
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21dbee5f839119790800000000000000
+      internalID: -7525205769924461294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart Buttons_26
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 124
+        width: 232
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6423a5ae78aaef3b0800000000000000
+      internalID: -5476752596106857914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart Buttons_27
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 124
+        width: 232
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee20b94af4118a20800000000000000
+      internalID: 3062752286799310569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart Buttons_28
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 9
+        width: 232
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a414daad5d6baea0800000000000000
+      internalID: -5860470241027156832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart Buttons_29
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 9
+        width: 132
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4159f9b960295f080800000000000000
+      internalID: -9154250110482279148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pixelart Buttons_0: 3631214953350966854
+      Pixelart Buttons_1: -6487945150512233127
+      Pixelart Buttons_10: 2861317256219808748
+      Pixelart Buttons_11: -3125494846964220233
+      Pixelart Buttons_12: 2076217095554176236
+      Pixelart Buttons_13: 4203967416036204163
+      Pixelart Buttons_14: 3127888666788950391
+      Pixelart Buttons_15: -6565372286407346604
+      Pixelart Buttons_16: 3680538676559597730
+      Pixelart Buttons_17: -2372972836523927627
+      Pixelart Buttons_18: 7541780126178792304
+      Pixelart Buttons_19: -1490065619087350349
+      Pixelart Buttons_2: 1589499051954660613
+      Pixelart Buttons_20: -5960215693996843454
+      Pixelart Buttons_21: 8583117213524191411
+      Pixelart Buttons_22: -9035868141927252560
+      Pixelart Buttons_23: 4946954714683498243
+      Pixelart Buttons_24: 7952127520380121405
+      Pixelart Buttons_25: -7525205769924461294
+      Pixelart Buttons_26: -5476752596106857914
+      Pixelart Buttons_27: 3062752286799310569
+      Pixelart Buttons_28: -5860470241027156832
+      Pixelart Buttons_29: -9154250110482279148
+      Pixelart Buttons_3: 5360433350553006917
+      Pixelart Buttons_4: 2907698663987326129
+      Pixelart Buttons_5: 944156740207852645
+      Pixelart Buttons_6: 7592655771049081623
+      Pixelart Buttons_7: 1132006720452459400
+      Pixelart Buttons_8: -6313431089572744389
+      Pixelart Buttons_9: -1722244017445352239
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

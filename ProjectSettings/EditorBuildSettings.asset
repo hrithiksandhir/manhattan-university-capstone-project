@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 52be751629fe4b04780858ec628cc56d
+  - enabled: 1
+    path: Assets/Scenes/SettingsMenu.unity
+    guid: bf6aaa9f478a6412a846e0cbca6a12e7
+  - enabled: 1
+    path: Assets/Scenes/CreditsScreen.unity
+    guid: e736655d464584b3cbc3bf1505a2ade3
+  - enabled: 1
+    path: Assets/Scenes/characterSelection.unity
+    guid: 2f8691dd5b2a8494e8f406c4b6557329
+  - enabled: 1
+    path: Assets/Scenes/modeSelection.unity
+    guid: e09f52af6248b41f7aff92ed36af0c8f
+  - enabled: 1
+    path: Assets/Scenes/Levell01_Basement.unity
+    guid: 5c71e5f162b4f0042ab9b55be299656e
+  - enabled: 1
+    path: Assets/Scenes/Level02_Forest-House.unity
+    guid: 9321a7f82b043434d878fe87c7b2e0b5
+  - enabled: 1
+    path: Assets/Scenes/Level03_City.unity
+    guid: 6fd77821486ef48debdd972b93a0fd89
+  - enabled: 1
+    path: Assets/Scenes/Level_04_ParadiseBeach.unity
+    guid: 2557dccf1b84d354a9e66e195c98c8b2
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 1300e495a07f2430e95bec3799d2a785, type: 2}
+  m_UseUCBPForAssetBundles: 0

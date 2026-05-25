@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7aa3ce14782247a08e5857e8a322d32, type: 3}
+  m_Name: Dog Character Database
+  m_EditorClassIdentifier: 
+  character:
+  - characterName: Buddy
+    characterSprite: {fileID: -3648964981505276725, guid: 8bc23a85262e82a48b54bd74a85c06cb, type: 3}
+    characterAnimator: {fileID: 9100000, guid: 4e830b486fb50437488bbd02da1582a3, type: 2}
+  - characterName: Bently
+    characterSprite: {fileID: 7865848443211434114, guid: 8a7a4c90e959df342a8d687191f4fe54, type: 3}
+    characterAnimator: {fileID: 9100000, guid: c0e373ad1c5d84a709d38fbe035c0ea5, type: 2}
+  - characterName: Bailey
+    characterSprite: {fileID: 5584333899006020737, guid: e88260dc4a6ff4d46811fb3c46267621, type: 3}
+    characterAnimator: {fileID: 9100000, guid: 2a29f1caa3ecf487c8b0cf50e0503f6e, type: 2}
+  - characterName: Daisy
+    characterSprite: {fileID: 5568234943108500005, guid: e82e404eacf2909459e6772da4d6d011, type: 3}
+    characterAnimator: {fileID: 9100000, guid: ba5c2ea4023394ca497d78b8766d6e8b, type: 2}

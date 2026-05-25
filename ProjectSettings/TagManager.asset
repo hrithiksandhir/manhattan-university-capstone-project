@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - Climbable
+  - DigSpot
+  - Cat
+  - Dog
+  - Enemy
+  - Attack
+  - Stomp
+  - Lever
+  - MovingPlatform
+  - DeathBox
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Cat
+  - Dog
+  - enemyLayer
+  - Rope
+  - Lever
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4264831119
+    locked: 0
+  - name: Props
+    uniqueID: 2946636159
+    locked: 0
+  - name: Environment
+    uniqueID: 2128136049
+    locked: 0
+  - name: Interactables
+    uniqueID: 3077676839
+    locked: 0
+  - name: Character
+    uniqueID: 1762805491
+    locked: 0
+  m_RenderingLayers:
+  - Default
