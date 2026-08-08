@@ -61,3 +61,7 @@
 <img width="1920" height="1080" alt="Meet_The_Team" src="https://github.com/user-attachments/assets/baf1e9fc-c8ae-41ac-9bd7-147327a3c32a" />
 
 ## *Thanks For Playing :)*
+
+---
+
+<sub>Originally developed as a team project on GitLab: https://gitlab.com/capstone251/legendofcatanddog</sub>
